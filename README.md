@@ -2,7 +2,7 @@ An interactive chart for visualizing A/B testing statistics using React, Next.js
 
 ## Demo
 
-[Live demo on GitHub Pages](https://shishel-zaitcevich.github.io/interactive_line_chart/)
+[Live demo on GitHub Pages](https://shishel-zaitcevich.github.io/interictive_line_chart/)
 
 ## Features
 
@@ -52,7 +52,7 @@ npm run format
 npm run lint
 ```
 
-The application will be available at [http://localhost:5173/](http://localhost:5173/)
+The application will be available at [http://localhost:5173/interictive_line_chart/](http://localhost:5173/interictive_line_chart/)
 
 ## Project structure (FSD)
 
