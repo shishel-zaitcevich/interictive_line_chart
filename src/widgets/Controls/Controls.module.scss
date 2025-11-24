@@ -1,0 +1,35 @@
+.controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.leftSelectors {
+  display: flex;
+  gap: 8px;
+  flex-wrap: nowrap;
+}
+
+.rightSelectors {
+  display: flex;
+  gap: 8px;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+
+@media (max-width: 630px) {
+  .controls {
+    align-items: stretch;
+  }
+
+  .leftSelectors,
+  .rightSelectors {
+    width: 100%;
+  }
+
+  .rightSelectors {
+    justify-content: space-between;
+  }
+}

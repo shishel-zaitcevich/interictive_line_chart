@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+
+  .zoomBtns {
+    display: flex;
+    width: 54px;
+    height: 27px;
+
+    button {
+      border: 1px solid #e1dfe7;
+      background-color: transparent;
+    }
+
+    .plus {
+      border-radius: 0px 4px 4px 0px;
+    }
+
+    .minus {
+      border-radius: 4px 0px 0px 4px;
+    }
+  }
+
+  .reset {
+    border: none;
+    padding: 0;
+    background-color: transparent;
+  }
+}

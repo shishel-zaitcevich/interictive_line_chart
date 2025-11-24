@@ -1,0 +1,11 @@
+.container {
+  border-radius: 8px;
+  width: 100%;
+  min-height: 540px;
+  background-color: var(--bg-primary);
+  transition: all 0.3s ease;
+
+  &.dark {
+    background-color: #000027;
+  }
+}

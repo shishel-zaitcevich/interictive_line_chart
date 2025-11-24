@@ -1,0 +1,13 @@
+.container {
+  flex: 1 1 300px;
+}
+
+.variationList {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+
+  .trigger {
+    min-width: 162px !important;
+  }
+}
