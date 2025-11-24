@@ -1,5 +1,3 @@
-'use client';
-
 import { useState, useEffect, useLayoutEffect } from 'react';
 import type { Theme } from '../types';
 
