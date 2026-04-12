@@ -1,4 +1,4 @@
-An interactive chart for visualizing A/B testing statistics using React, Next.js, and Recharts.
+An interactive chart for visualizing A/B testing statistics using React, Next.js, and Recharts
 
 ## Demo
 
